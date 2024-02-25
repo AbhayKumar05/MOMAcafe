@@ -1,6 +1,6 @@
 # High-Level Overview
 
-Welcome to the sophisticated Cafe Web App project! The development is powered by the trio of HTML, CSS, and JavaScript. The focal points of this project include a captivating home page, a detailed menu page, Elevating the aesthetic appeal, the user interface boasts ingenious CSS animations for an immersive visual experience.
+This is my first attempt to create a Cafe Web App project! The development is powered by the trio of HTML, CSS, and JavaScript. The focal points of this project include a captivating home page, a detailed menu page, Elevating the aesthetic appeal, the user interface boasts ingenious CSS animations for an immersive visual experience.
 
 ## Project Architecture
 
