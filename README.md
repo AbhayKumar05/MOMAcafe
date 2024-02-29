@@ -16,14 +16,14 @@ The project adheres to a meticulously organized structure:
 
 ## Pages Unveiled
 
-# 1. Home Page (`index.html`)
+- **1:** Home Page (`index.html`)
 
-# 2. Menu Page (`menu.html`)
+- **2:** Menu Page (`menu.html`)
 
-# 3. Order Page (`order.html`)
+- **3:** Order Page (`order.html`)
 
-## 4. Events Page (`events.html`)
+- **4:** Events Page (`events.html`)
 
-## The Symphony of Animations
+- **1:** The Symphony of Animations
 
 - The project orchestrates a symphony of creative CSS animations, elevating the user experience with smooth transitions and visually enchanting effects.
