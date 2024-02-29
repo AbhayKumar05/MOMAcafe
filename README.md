@@ -16,11 +16,11 @@ The project adheres to a meticulously organized structure:
 
 ## Pages Unveiled
 
-## 1. Home Page (`index.html`)
+# 1. Home Page (`index.html`)
 
-## 2. Menu Page (`menu.html`)
+# 2. Menu Page (`menu.html`)
 
-## 3. Order Page (`order.html`)
+# 3. Order Page (`order.html`)
 
 ## 4. Events Page (`events.html`)
 
