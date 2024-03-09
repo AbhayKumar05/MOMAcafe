@@ -22,8 +22,9 @@ The project adheres to a meticulously organized structure:
 
 - **3:** Cakes Page (`order.html`)
 
-- **4:** New Arival Page (`events.html`)
+- **4:** New Arival Page (`arrivals.html`)
 
 - **1:** The Symphony of Animations
+-  **1:** Styles.css
 
 - The project orchestrates a symphony of creative CSS animations, elevating the user experience with smooth transitions and visually enchanting effects.
