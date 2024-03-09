@@ -18,9 +18,9 @@ The project adheres to a meticulously organized structure:
 
 - **1:** Home Page (`index.html`)
 
-- **2:** Coffee Menu Page (`menu.html`)
+- **2:** Coffee Menu Page (`tech.html`)
 
-- **3:** Cakes Page (`order.html`)
+- **3:** Cakes Page (`sign-up.html`)
 
 - **4:** New Arival Page (`arrivals.html`)
 
