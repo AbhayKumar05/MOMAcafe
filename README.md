@@ -21,7 +21,7 @@ The project adheres to a meticulously organized structure:
 - **2:** Coffee Menu Page (`tech.html`)
 
 - **3:** Cakes Page (`sign-up.html`)
-- 
+   
 - **4:** New Arival Page (`arrivals.html`)
 
 - **1:** The Symphony of Animations
