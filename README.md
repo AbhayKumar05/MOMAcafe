@@ -21,13 +21,15 @@ The project adheres to a meticulously organized structure:
 - **2:** Coffee Menu Page (`tech.html`)
 
 - **3:** Cakes Page (`sign-up.html`)
-
-## LinkedIn 
-
-https://www.linkedin.com/in/abhay-kumar-13831b248/
+- 
 - **4:** New Arival Page (`arrivals.html`)
 
 - **1:** The Symphony of Animations
 -  Styles.css
 
 - The project orchestrates a symphony of creative CSS animations, elevating the user experience with smooth transitions and visually enchanting effects.
+
+  
+## LinkedIn 
+
+https://www.linkedin.com/in/abhay-kumar-13831b248/
